@@ -1,0 +1,24 @@
+{
+  "name": "CodeAcademy",
+  "version": "1.0.0",
+  "description": "Welcome to the first part of Sidetrade's Code Academy course!",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaredguerra/CodeAcademy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaredguerra/CodeAcademy/issues"
+  },
+  "homepage": "https://github.com/Jaredguerra/CodeAcademy#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
